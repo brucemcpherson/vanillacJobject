@@ -1,14 +1,21 @@
 # VBA Project: vanillacJobject
-This repo (vanillacJobject) was automatically created on 5/11/2015 12:09:59 PM by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")  
+This repo (vanillacJobject) was automatically created on 5/11/2015 12:11:27 PM by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")  
 ## Details for VBA project vanillacJobject
 Where possibile directly referenced or sub referenced library sources have been copied to this repository  
 ### Modules of vanillacJobject included in this repo
 *name*|*type*|*source*|*docs*  
 ---|---|---|---  
+advancedcJobject|StdModule|[advancedcJobject.vba](scripts/advancedcJobject.vba "script source")|[advancedcJobject_vba.md](scripts/advancedcJobject_vba.md "script docs")  
   
 ### All dependencies and sub dependencies in this repo  
 *name*|*type*|*source*|*docs*  
 ---|---|---|---  
+usefulcJobject|StdModule|[usefulcJobject.vba](libraries/usefulcJobject.vba "library source")|[usefulcJobject_vba.md](libraries/usefulcJobject_vba.md "library docs")  
+cJobject|ClassModule|[cJobject.cls](libraries/cJobject.cls "library source")|[cJobject_cls.md](libraries/cJobject_cls.md "library docs")  
+cStringChunker|ClassModule|[cStringChunker.cls](libraries/cStringChunker.cls "library source")|[cStringChunker_cls.md](libraries/cStringChunker_cls.md "library docs")  
+usefulStuff|StdModule|[usefulStuff.vba](libraries/usefulStuff.vba "library source")|[usefulStuff_vba.md](libraries/usefulStuff_vba.md "library docs")  
+regXLib|StdModule|[regXLib.vba](libraries/regXLib.vba "library source")|[regXLib_vba.md](libraries/regXLib_vba.md "library docs")  
+cregXLib|ClassModule|[cregXLib.cls](libraries/cregXLib.cls "library source")|[cregXLib_cls.md](libraries/cregXLib_cls.md "library docs")  
   
 ###Excel references  
 ####These references were detected in the workbook (vanillacJobject.xlsm) this repo was created from. You may not need them all  
