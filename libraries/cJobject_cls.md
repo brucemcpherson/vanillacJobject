@@ -3,7 +3,7 @@
 ### Type: ClassModule  
 
 This procedure list for repo (vanillacJobject) was automatically created on 5/11/2015 12:11:26 PM by VBAGit.
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
+For more information see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/getting-your-apps-scripts-to-github/ "desktop liberation")
 
 Below is a section for each procedure in cJobject
 
